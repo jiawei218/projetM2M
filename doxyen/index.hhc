@@ -1,0 +1,262 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Liste des classes"><param name="Local" value="annotated.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280"><param name="Local" value="class_b_m_e280.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="calcAltitude"><param name="Local" value="class_b_m_e280.html#adeed0dadb342453291e748072f181fcd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getHumidity"><param name="Local" value="class_b_m_e280.html#a43c4100f6c30b786751c627fbc3261af"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPressure"><param name="Local" value="class_b_m_e280.html#aca784b484598b010b597189a401123da"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getTemperature"><param name="Local" value="class_b_m_e280.html#a62105da311ce318edb1e251729736bf4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="init"><param name="Local" value="class_b_m_e280.html#a6be4deb4bd44215a82b97c82a95dad64"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="collectRequest"><param name="Local" value="classcomposents.html#a37228bde5db2a6e6f360327c5bfdd770"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="controlLED"><param name="Local" value="classcomposents.html#a6f83f1130f4728e5f4381c3e86e3c3b4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="controlLED"><param name="Local" value="classcomposents.html#a6f83f1130f4728e5f4381c3e86e3c3b4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPotentiometreValue"><param name="Local" value="classcomposents.html#a0b888f81e2c5fa9d3992f8648af953a1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPotentiometreValue"><param name="Local" value="classcomposents.html#a0b888f81e2c5fa9d3992f8648af953a1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="handleLEDRequest"><param name="Local" value="classcomposents.html#a1a0b9317d7344a6606c0b51f37dd8e1b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="handleMajDataRequest"><param name="Local" value="classcomposents.html#ae20b3cada4b26f951910ae0e3ebdd8a8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="loadPage"><param name="Local" value="classcomposents.html#a1f79a58387fbf38b5057980fd95fe071"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="run"><param name="Local" value="classcomposents.html#a9ec8aa3d92fd0c8bf5aa8a3e9cea15c8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setPotentiometreValue"><param name="Local" value="classcomposents.html#a7cffbd9ccc93571f6cd2b4cb3f6b8e6c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setPotentiometreValue"><param name="Local" value="classcomposents.html#a7cffbd9ccc93571f6cd2b4cb3f6b8e6c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="updateLCD"><param name="Local" value="classcomposents.html#a2df4fa822802697e86bd3c5eabb6b8ac"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="updateLCD"><param name="Local" value="classcomposents.html#a2df4fa822802697e86bd3c5eabb6b8ac"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Index des classes"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Membres de classe"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Tout"><param name="Local" value="functions.html#top"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Fonctions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Fichiers"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Liste des fichiers"><param name="Local" value="files.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CJW"><param name="Local" value="dir_2d274ed05b948da07106671f4c433cad.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="A5"><param name="Local" value="dir_a56b706be37714c3b00677fe0f8bf2eb.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="S9"><param name="Local" value="dir_0724d1821921d1cc087701071195c460.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="M2M"><param name="Local" value="dir_1864c1e5594a12de3d59b20bdef65038.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="auduino"><param name="Local" value="dir_b5a653b670e6e303c84d931a3bd5e24c.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CHEN_LIN_TP_M2M_2023-2024"><param name="Local" value="dir_6ba46b5c9845c26cfdb6e4262d631649.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="bme280_led_lcd_poten"><param name="Local" value="dir_64862a1e2278ee6abda7335cc195ae73.html"><param name="ImageNumber" value="1"></OBJECT>
+                  <UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="composents.cpp"><param name="Local" value="bme280__led__lcd__poten_2composents_8cpp.html"><param name="ImageNumber" value="1"></OBJECT>
+                    <UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="leds"><param name="Local" value="bme280__led__lcd__poten_2composents_8cpp.html#a800c4febd0a328fd623771a394fc05be"><param name="ImageNumber" value="11"></OBJECT>
+                    </UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="composents.h"><param name="Local" value="bme280__led__lcd__poten_2composents_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+                    <UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html"><param name="ImageNumber" value="1"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="collectRequest"><param name="Local" value="classcomposents.html#a37228bde5db2a6e6f360327c5bfdd770"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="controlLED"><param name="Local" value="classcomposents.html#a6f83f1130f4728e5f4381c3e86e3c3b4"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="controlLED"><param name="Local" value="classcomposents.html#a6f83f1130f4728e5f4381c3e86e3c3b4"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPotentiometreValue"><param name="Local" value="classcomposents.html#a0b888f81e2c5fa9d3992f8648af953a1"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPotentiometreValue"><param name="Local" value="classcomposents.html#a0b888f81e2c5fa9d3992f8648af953a1"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="handleLEDRequest"><param name="Local" value="classcomposents.html#a1a0b9317d7344a6606c0b51f37dd8e1b"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="handleMajDataRequest"><param name="Local" value="classcomposents.html#ae20b3cada4b26f951910ae0e3ebdd8a8"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="loadPage"><param name="Local" value="classcomposents.html#a1f79a58387fbf38b5057980fd95fe071"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="run"><param name="Local" value="classcomposents.html#a9ec8aa3d92fd0c8bf5aa8a3e9cea15c8"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setPotentiometreValue"><param name="Local" value="classcomposents.html#a7cffbd9ccc93571f6cd2b4cb3f6b8e6c"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setPotentiometreValue"><param name="Local" value="classcomposents.html#a7cffbd9ccc93571f6cd2b4cb3f6b8e6c"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="updateLCD"><param name="Local" value="classcomposents.html#a2df4fa822802697e86bd3c5eabb6b8ac"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="updateLCD"><param name="Local" value="classcomposents.html#a2df4fa822802697e86bd3c5eabb6b8ac"><param name="ImageNumber" value="11"></OBJECT>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="NUM_LEDS"><param name="Local" value="bme280__led__lcd__poten_2composents_8h.html#a4c4ae9a4146ce8d6a5debc90300d9abd"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="DisplayState"><param name="Local" value="bme280__led__lcd__poten_2composents_8h.html#afbb0b74e0b5bea861360407d10426e7c"><param name="ImageNumber" value="1"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="TEMPERATURE"><param name="Local" value="bme280__led__lcd__poten_2composents_8h.html#afbb0b74e0b5bea861360407d10426e7cac4ae6787ff1d8b2d1cf0ae9aa696e56c"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="HUMIDITY"><param name="Local" value="bme280__led__lcd__poten_2composents_8h.html#afbb0b74e0b5bea861360407d10426e7cafe1d7174637f10c7cfd0ea9d785cf9f1"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="PRESSURE"><param name="Local" value="bme280__led__lcd__poten_2composents_8h.html#afbb0b74e0b5bea861360407d10426e7ca86426522c91b417229c899ae35258a46"><param name="ImageNumber" value="11"></OBJECT>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="colorB"><param name="Local" value="bme280__led__lcd__poten_2composents_8h.html#ac117a79e087a6ab2fa4eb5c81f004cc3"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="colorG"><param name="Local" value="bme280__led__lcd__poten_2composents_8h.html#a0fb0fd3863fe136533930af09e8c78cd"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="colorR"><param name="Local" value="bme280__led__lcd__poten_2composents_8h.html#a8a67ce7f50373e993226d273f2621ec4"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="interval"><param name="Local" value="bme280__led__lcd__poten_2composents_8h.html#afab23e0ee85e56261dace1dba900e39e"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="intervalLCD"><param name="Local" value="bme280__led__lcd__poten_2composents_8h.html#ae8f2f11a93dc0400260b6caebe29de0e"><param name="ImageNumber" value="11"></OBJECT>
+                    </UL>
+                  </UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="bme280_led_lcd_poten_nolib"><param name="Local" value="dir_3213e2e6b1997945c71f3f1748791244.html"><param name="ImageNumber" value="1"></OBJECT>
+                  <UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280.cpp"><param name="Local" value="_b_m_e280_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280.h"><param name="Local" value="_b_m_e280_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+                    <UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280"><param name="Local" value="class_b_m_e280.html"><param name="ImageNumber" value="1"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="calcAltitude"><param name="Local" value="class_b_m_e280.html#adeed0dadb342453291e748072f181fcd"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="getHumidity"><param name="Local" value="class_b_m_e280.html#a43c4100f6c30b786751c627fbc3261af"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPressure"><param name="Local" value="class_b_m_e280.html#aca784b484598b010b597189a401123da"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="getTemperature"><param name="Local" value="class_b_m_e280.html#a62105da311ce318edb1e251729736bf4"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="init"><param name="Local" value="class_b_m_e280.html#a6be4deb4bd44215a82b97c82a95dad64"><param name="ImageNumber" value="11"></OBJECT>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_ADDRESS"><param name="Local" value="_b_m_e280_8h.html#a632fe389011b56233474fad5bc075e4b"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_CAL26"><param name="Local" value="_b_m_e280_8h.html#a26a81a4411e76097987ab549683308f5"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_CHIPID"><param name="Local" value="_b_m_e280_8h.html#aff479aff3a5a52e6c37ba4f73880ab87"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_CONFIG"><param name="Local" value="_b_m_e280_8h.html#a74148d55f85b04b5a496030144408f7c"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_CONTROL"><param name="Local" value="_b_m_e280_8h.html#a511150191256f8664dc731d7f188c0b0"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_CONTROLHUMID"><param name="Local" value="_b_m_e280_8h.html#a3a040e3a4991d5a8359c58f1507c316f"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_H1"><param name="Local" value="_b_m_e280_8h.html#a1d890a669729874b8159f93f8049d08e"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_H2"><param name="Local" value="_b_m_e280_8h.html#ac4e1866437ff7033ffb6d7e1a9d78d69"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_H3"><param name="Local" value="_b_m_e280_8h.html#a045a1b7b7cbfbef098ce1b9792e60824"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_H4"><param name="Local" value="_b_m_e280_8h.html#a516ab4733cd1890f3813c54ae1a26bbc"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_H5"><param name="Local" value="_b_m_e280_8h.html#a253e2a9547e792279ef856a6c3c951fa"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_H6"><param name="Local" value="_b_m_e280_8h.html#a5a81a333914058cd734b80bcc4a317d5"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_P1"><param name="Local" value="_b_m_e280_8h.html#acb81312b12bfbadf9a0cc595d6e5c047"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_P2"><param name="Local" value="_b_m_e280_8h.html#a7d28cb2ff4cfbfd359dea9a139f1a1b4"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_P3"><param name="Local" value="_b_m_e280_8h.html#a271a099dc0ab8461518740a06fc70c0b"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_P4"><param name="Local" value="_b_m_e280_8h.html#a679f475b84c5b7038b16dbc5a14f3b53"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_P5"><param name="Local" value="_b_m_e280_8h.html#aacc32331944486df8e6036cbe5ee6b2a"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_P6"><param name="Local" value="_b_m_e280_8h.html#a0931f3997403b00e3a17b20d3519a6f9"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_P7"><param name="Local" value="_b_m_e280_8h.html#a9decffde96646c2ccb99c05e45cf922a"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_P8"><param name="Local" value="_b_m_e280_8h.html#ade7882eaee556bc04c81c8d2d0f7f1a9"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_P9"><param name="Local" value="_b_m_e280_8h.html#a192548a55b67e78866b86e2e56b35bdb"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_T1"><param name="Local" value="_b_m_e280_8h.html#a91279915355253bceb2e7d7bd0daa4b5"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_T2"><param name="Local" value="_b_m_e280_8h.html#a97c80ddfdb8ba9a224823e198f9b2642"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_DIG_T3"><param name="Local" value="_b_m_e280_8h.html#a71ff899532a7fc078459651b687c861e"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_HUMIDITYDATA"><param name="Local" value="_b_m_e280_8h.html#ac5b36d708fdc07db062aabf8d91b9425"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_PRESSUREDATA"><param name="Local" value="_b_m_e280_8h.html#a457d709c4c2af5c8f62323c54a111774"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_SOFTRESET"><param name="Local" value="_b_m_e280_8h.html#a535ce3f0edb0504521203fe92a2d74c9"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_TEMPDATA"><param name="Local" value="_b_m_e280_8h.html#ac41ecd380b9faf8c938c1fafd0599137"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="BME280_REG_VERSION"><param name="Local" value="_b_m_e280_8h.html#a344bf1c4e9cadb306c1d5a579669dc36"><param name="ImageNumber" value="11"></OBJECT>
+                    </UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="composents.cpp"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8cpp.html"><param name="ImageNumber" value="1"></OBJECT>
+                    <UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="leds"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8cpp.html#a800c4febd0a328fd623771a394fc05be"><param name="ImageNumber" value="11"></OBJECT>
+                    </UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="composents.h"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+                    <UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html"><param name="ImageNumber" value="1"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="collectRequest"><param name="Local" value="classcomposents.html#a37228bde5db2a6e6f360327c5bfdd770"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="controlLED"><param name="Local" value="classcomposents.html#a6f83f1130f4728e5f4381c3e86e3c3b4"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="controlLED"><param name="Local" value="classcomposents.html#a6f83f1130f4728e5f4381c3e86e3c3b4"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPotentiometreValue"><param name="Local" value="classcomposents.html#a0b888f81e2c5fa9d3992f8648af953a1"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPotentiometreValue"><param name="Local" value="classcomposents.html#a0b888f81e2c5fa9d3992f8648af953a1"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="handleLEDRequest"><param name="Local" value="classcomposents.html#a1a0b9317d7344a6606c0b51f37dd8e1b"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="handleMajDataRequest"><param name="Local" value="classcomposents.html#ae20b3cada4b26f951910ae0e3ebdd8a8"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="loadPage"><param name="Local" value="classcomposents.html#a1f79a58387fbf38b5057980fd95fe071"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="run"><param name="Local" value="classcomposents.html#a9ec8aa3d92fd0c8bf5aa8a3e9cea15c8"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setPotentiometreValue"><param name="Local" value="classcomposents.html#a7cffbd9ccc93571f6cd2b4cb3f6b8e6c"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setPotentiometreValue"><param name="Local" value="classcomposents.html#a7cffbd9ccc93571f6cd2b4cb3f6b8e6c"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="updateLCD"><param name="Local" value="classcomposents.html#a2df4fa822802697e86bd3c5eabb6b8ac"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="updateLCD"><param name="Local" value="classcomposents.html#a2df4fa822802697e86bd3c5eabb6b8ac"><param name="ImageNumber" value="11"></OBJECT>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="NUM_LEDS"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8h.html#a4c4ae9a4146ce8d6a5debc90300d9abd"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="DisplayState"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8h.html#afbb0b74e0b5bea861360407d10426e7c"><param name="ImageNumber" value="1"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="TEMPERATURE"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8h.html#afbb0b74e0b5bea861360407d10426e7cac4ae6787ff1d8b2d1cf0ae9aa696e56c"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="HUMIDITY"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8h.html#afbb0b74e0b5bea861360407d10426e7cafe1d7174637f10c7cfd0ea9d785cf9f1"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="PRESSURE"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8h.html#afbb0b74e0b5bea861360407d10426e7ca86426522c91b417229c899ae35258a46"><param name="ImageNumber" value="11"></OBJECT>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="colorB"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8h.html#ac117a79e087a6ab2fa4eb5c81f004cc3"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="colorG"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8h.html#a0fb0fd3863fe136533930af09e8c78cd"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="colorR"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8h.html#a8a67ce7f50373e993226d273f2621ec4"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="interval"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8h.html#afab23e0ee85e56261dace1dba900e39e"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="intervalLCD"><param name="Local" value="bme280__led__lcd__poten__nolib_2composents_8h.html#ae8f2f11a93dc0400260b6caebe29de0e"><param name="ImageNumber" value="11"></OBJECT>
+                    </UL>
+                  </UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="webServer"><param name="Local" value="dir_99761ac72af20a1d64dc4c9271355456.html"><param name="ImageNumber" value="1"></OBJECT>
+                  <UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="composents.cpp"><param name="Local" value="web_server_2composents_8cpp.html"><param name="ImageNumber" value="1"></OBJECT>
+                    <UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="ip"><param name="Local" value="web_server_2composents_8cpp.html#a6620f82a67f5a10eb7f27d0d9cf710cb"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="leds"><param name="Local" value="web_server_2composents_8cpp.html#aec3d5b898358da60177ed1d00cb2b972"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="server"><param name="Local" value="web_server_2composents_8cpp.html#aa26bd0f0bdc5e4c3948e403b7ba4c084"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="mac"><param name="Local" value="web_server_2composents_8cpp.html#aea3f7775fecafb66a619eb2dcb0357bd"><param name="ImageNumber" value="11"></OBJECT>
+                    </UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="composents.h"><param name="Local" value="web_server_2composents_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+                    <UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html"><param name="ImageNumber" value="1"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="composents"><param name="Local" value="classcomposents.html#ae9ccda8b60d952ef2d64a13138888f9e"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="~composents"><param name="Local" value="classcomposents.html#ab203beefd3f44d4415a02cf5d615a622"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="collectRequest"><param name="Local" value="classcomposents.html#a37228bde5db2a6e6f360327c5bfdd770"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="controlLED"><param name="Local" value="classcomposents.html#a6f83f1130f4728e5f4381c3e86e3c3b4"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="controlLED"><param name="Local" value="classcomposents.html#a6f83f1130f4728e5f4381c3e86e3c3b4"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPotentiometreValue"><param name="Local" value="classcomposents.html#a0b888f81e2c5fa9d3992f8648af953a1"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPotentiometreValue"><param name="Local" value="classcomposents.html#a0b888f81e2c5fa9d3992f8648af953a1"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="handleLEDRequest"><param name="Local" value="classcomposents.html#a1a0b9317d7344a6606c0b51f37dd8e1b"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="handleMajDataRequest"><param name="Local" value="classcomposents.html#ae20b3cada4b26f951910ae0e3ebdd8a8"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="loadPage"><param name="Local" value="classcomposents.html#a1f79a58387fbf38b5057980fd95fe071"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="run"><param name="Local" value="classcomposents.html#a9ec8aa3d92fd0c8bf5aa8a3e9cea15c8"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setPotentiometreValue"><param name="Local" value="classcomposents.html#a7cffbd9ccc93571f6cd2b4cb3f6b8e6c"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setPotentiometreValue"><param name="Local" value="classcomposents.html#a7cffbd9ccc93571f6cd2b4cb3f6b8e6c"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="setup"><param name="Local" value="classcomposents.html#a3139faf95200b55ce01bf5d3a0f86ae2"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="updateLCD"><param name="Local" value="classcomposents.html#a2df4fa822802697e86bd3c5eabb6b8ac"><param name="ImageNumber" value="11"></OBJECT>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="updateLCD"><param name="Local" value="classcomposents.html#a2df4fa822802697e86bd3c5eabb6b8ac"><param name="ImageNumber" value="11"></OBJECT>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="NUM_LEDS"><param name="Local" value="web_server_2composents_8h.html#a4c4ae9a4146ce8d6a5debc90300d9abd"><param name="ImageNumber" value="11"></OBJECT>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="index_html"><param name="Local" value="web_server_2composents_8h.html#af99922a13ca56bfa80721ef2387162f5"><param name="ImageNumber" value="11"></OBJECT>
+                    </UL>
+                  </UL>
+                </UL>
+              </UL>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Membres de fichier"><param name="Local" value="globals.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Tout"><param name="Local" value="globals.html#top"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Fonctions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="globals_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Énumérations"><param name="Local" value="globals_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Valeurs énumérées"><param name="Local" value="globals_eval.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Macros"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
